@@ -3,12 +3,14 @@
 ## Requirements
 
 packages:
+- gcc
 - git
 - gh
 - stow
 - starship
 - fish
-- nvim ()
+- volta
+- nvim (⚠️ v+0.9.4)
 - tmux
 - tpm
 
